@@ -1,9 +1,19 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Netflix_Clone
+
+A simple React.js project. The main purpose is to reinforce the concepts of React, Redux, and Thunk. Movie data is fetched from the TMDB API. When any movie card is clicked, a detail page related to that movie is opened.
+
+# Features
+
+- Initial State
+- Reducer Function
+- Destructuring Assignment
+- Switch Statement
+- Spread Operator
+- Thunk Middleware
+- Action Dispatching
+- API Call Using Axio
+- Hooks
+
+# GIF
+
+![0812(1)](https://github.com/user-attachments/assets/4618867a-4e46-47ff-aaa9-f3daa7418ebd)
